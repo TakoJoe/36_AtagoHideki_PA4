@@ -16,6 +16,8 @@ What is Integration Testing?​
 
 Integration Testing is conducted by developer or tester​
 
-It is type of blackbox ​
+It is type of blackbox .
+
+updated by 24_chua jia jun
 
 ​
